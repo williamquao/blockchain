@@ -1,0 +1,11 @@
+/Users/prime/Rust-for-Blockchain-Application-Development/complete_blockchain/target/release/deps/libcrc32fast-84a6239731272be4.rmeta: /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/lib.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/baseline.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/combine.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/specialized/mod.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/table.rs
+
+/Users/prime/Rust-for-Blockchain-Application-Development/complete_blockchain/target/release/deps/libcrc32fast-84a6239731272be4.rlib: /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/lib.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/baseline.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/combine.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/specialized/mod.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/table.rs
+
+/Users/prime/Rust-for-Blockchain-Application-Development/complete_blockchain/target/release/deps/crc32fast-84a6239731272be4.d: /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/lib.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/baseline.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/combine.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/specialized/mod.rs /Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/table.rs
+
+/Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/lib.rs:
+/Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/baseline.rs:
+/Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/combine.rs:
+/Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/specialized/mod.rs:
+/Users/prime/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.0/src/table.rs:
